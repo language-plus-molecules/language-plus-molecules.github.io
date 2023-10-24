@@ -1,0 +1,57 @@
+---
+# Display name
+title: Teodoro Laino
+link: "https://research.ibm.com/people/teodoro-laino"
+weight: 30
+
+# Role/position
+role: IBM Research
+
+# # Organizations/Affiliations
+# organizations:
+#   - name: IBM Research
+#     url: ''
+
+# # Short bio (displayed in user profile at end of posts)
+# bio: Teo received the Master degree in theoretical chemistry in 2001 (University of Pisa and Scuola Normale Superiore di Pisa, Italy) and the doctorate in computational chemistry in 2006 (Scuola Normale Superiore di Pisa, Italy) defending a thesis on 'Multi-Grid QM/ MM Approaches in ab initio Molecular Dynamics' supervised by Prof. Dr. Michele Parrinello. From 2006 to 2008, Teo worked as a post-doctoral researcher in the research group of Prof. Dr. Jürg Hutter at the University of Zurich, contributing to the development of the CP2K simulation package. In 2008, Teo joined the IBM Research - Zurich Laboratory (ZRL) as Research Scientist. He is currently Distinguished Research Scientist and manager.
+
+
+
+# interests:
+#   - Artificial Intelligence
+#   - Computational Linguistics
+#   - Information Retrieval
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# social:
+#   - icon: twitter
+#     icon_pack: fab
+#     link: https://twitter.com/GeorgeCushen
+#   - icon: orcid
+#     icon_pack: fab
+#     link: https://orcid.org/
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/gcushen
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Organizing Committee
+---
+
+

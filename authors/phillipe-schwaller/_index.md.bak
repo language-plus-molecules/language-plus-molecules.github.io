@@ -1,0 +1,61 @@
+---
+# Display name
+title: Philippe Schwaller
+link: "https://pschwllr.github.io/"
+weight: 30
+
+# Role/position
+role: EPFL
+
+# # Organizations/Affiliations
+# organizations:
+#   - name: IBM Research
+#     url: ''
+
+# # Short bio (displayed in user profile at end of posts)
+# bio: In February 2022, I joined EPFL as a Tenure-Track Assistant Professor in the Institute of Chemical Sciences and Engineering. The Laboratory of Artificial Chemical Intelligence (LIAC), which I lead at EFPL, works on AI-accelerated discovery and synthesis of molecules. Moreover, I am part of the NCCR Catalysis, a Swiss centre for sustainable chemistry research, education, and innovation. For information on PhD positions, contact me via Twitter or email.
+
+I received my Bachelor’s and Master’s degrees from EPFL (École Polytechnique Fédérale de Lausanne, Switzerland) and I spent the last year of my Bachelor’s studies as an ERASMUS student at the University of Manchester. During my Master’s research, I had the opportunity to be a member of Prof. Nicola Marzari’s laboratory. There, I started the extraction of layered materials from inorganic crystalline compounds databases and calculated the binding energy of the layers, as well as the elastic constants of the parent crystals, with density functional theory. After graduating in October 2016, I completed the last months of my civil service performing experiments in the Functional Polymers laboratory at EMPA.
+
+Since March 2017, I have been working for IBM Research – Europe in the Zurich lab, in the Cognitive Computing and Industry Solutions department and the Accelerated Discovery group lead by Dr Teodoro Laino. My main focus is on data-driven discovery and synthesis of novel molecules and materials. During this period, I also studied for one year at the University of Cambridge (MPhil in Physics), and I completed my PhD with Prof Jean-Louis Reymond as supervisor at the University of Bern. Now, I work as a postdoctoral researcher in accelerated discovery at IBM Research – Europe. My work is at the intersection between chemistry and machine learning. I develop tools with practical value for chemists.
+
+
+
+# interests:
+#   - Artificial Intelligence
+#   - Computational Linguistics
+#   - Information Retrieval
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# social:
+#   - icon: twitter
+#     icon_pack: fab
+#     link: https://twitter.com/GeorgeCushen
+#   - icon: orcid
+#     icon_pack: fab
+#     link: https://orcid.org/
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/gcushen
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Organizing Committee
+---
+
+
