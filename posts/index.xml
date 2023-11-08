@@ -13,21 +13,19 @@
     </image>
     
     <item>
-      <title>Language &#43; Molecules  
-{style=&#34;color: white; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;&#34;}    
-@ EACL 2024 Tutorial
-{style=&#34;color: white; font-size: 3rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;&#34;}
+      <title>Language &#43; Molecules @ EACL 2024 Tutorial
 </title>
       <link>https://language-plus-molecules.github.io/posts/tutorial/</link>
       <pubDate>Wed, 08 Nov 2023 16:32:37 -0600</pubDate>
       <guid>https://language-plus-molecules.github.io/posts/tutorial/</guid>
-      <description>&lt;p style=&#34;color: white; padding-bottom: 0rem&#34;&gt;March 21, 2024 hybrid in Malta &amp;amp; Remote&lt;/p&gt;
-&lt;p style=&#34;color: white; padding-bottom: 0rem&#34;&gt;&lt;i&gt;Synthesizing Language and Molecules for Scientific Insight and Discovery&lt;/i&gt;&lt;/p&gt;
+      <description>&lt;p style=&#34;color: white; padding-bottom: 0rem&#34;&gt;&lt;i&gt;Synthesizing Language and Molecules for Scientific Insight and Discovery&lt;/i&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;p&gt;Welcome to the Language + Molecules Tutorial! Join us for this introductory tutorial targetted at NLP researchers with no knowledge of chemistry as we explore cutting-edge new work in the integration of molecules and natural language, with exciting applications such as developing new drugs, materials, and chemical processes.&lt;/p&gt;
+&lt;p&gt;Welcome to the Language + Molecules Tutorial!
+Join us for this introductory tutorial targetted at NLP researchers with no knowledge of chemistry as we explore cutting-edge new work in the integration of molecules and natural language, with exciting applications such as developing new drugs, materials, and chemical processes.&lt;/p&gt;
 &lt;p&gt;Climate change, access to food and water, pandemics&amp;mdash; these words, when uttered, immediately summon to mind global challenges with possible disastrous outcomes. Molecular solutions will be critical to addressing these global problems on scales of complexity never-before-seen. However, they exist in extremely large search spaces, which makes AI tools a necessity. Excitingly, the chemistry field is posed to be substantially accelerated via multimodal models combining language with molecules and drug structures.&lt;/p&gt;
 &lt;p&gt;Stay tuned by following us on Twitter &lt;a href=&#34;https://twitter.com/lang_plus_mols&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@lang_plus_mols&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;outline-180-min&#34;&gt;Outline [180 min.]&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;tutorial-outline-180-min&#34;&gt;Tutorial Outline [180 min.]&lt;/h1&gt;
 &lt;p&gt;Applying language models to the scientific domain is becoming increasingly popular due to its potential impact for accelerating scientific discovery (Hope et al., 2022). Beyond extracting information from scientific literature, NLP has the possibility to increase control of the scientific discovery process, which can be achieved through multimodal representations and generative language models.&lt;/p&gt;
 &lt;h3 id=&#34;1-background-60-min&#34;&gt;1. Background [60 min.]&lt;/h3&gt;
 &lt;p&gt;Scientific Information Extraction [15 min.]
@@ -79,6 +77,8 @@ To start, we will provide a high-level overview on traditional NLP tasks used fo
 &lt;li&gt;improved methods for integrating geometric structures into LLMs&lt;/li&gt;
 &lt;li&gt;developing better evaluation metrics for chemical predictions without real-world experiments.&lt;/li&gt;
 &lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;reading-list&#34;&gt;Reading List&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Molecule Representations and Language Models:
 &lt;ul&gt;
@@ -123,7 +123,8 @@ To start, we will provide a high-level overview on traditional NLP tasks used fo
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We won&amp;rsquo;t require reading these beforehand to ensure the tutorial is introductory.&lt;/p&gt;
-&lt;p&gt;Tutorial Presenters:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;tutorial-presenters&#34;&gt;Tutorial Presenters&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;cnedwards.com&#34;&gt;Carl Edwards&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://eaglew.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qingyun Wang&lt;/a&gt;&lt;/li&gt;
