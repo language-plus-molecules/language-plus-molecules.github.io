@@ -127,8 +127,8 @@
       <guid>https://language-plus-molecules.github.io/posts/tutorial/</guid>
       <description>&lt;p style=&#34;color: white; padding-bottom: 0rem&#34;&gt;&lt;i&gt;Synthesizing Language and Molecules for Scientific Insight and Discovery&lt;/i&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;p&gt;Welcome to the Language + Molecules Tutorial!
-Join us for this introductory tutorial targetted at NLP researchers with no knowledge of chemistry as we explore cutting-edge new work in the integration of molecules and natural language, with exciting applications such as developing new drugs, materials, and chemical processes.&lt;/p&gt;
+&lt;p&gt;Welcome to the Language + Molecules Tutorial!&lt;/p&gt;
+&lt;p&gt;Join us for this introductory tutorial targetted at NLP researchers with no knowledge of chemistry as we explore cutting-edge new work in the integration of molecules and natural language, with exciting applications such as developing new drugs, materials, and chemical processes.&lt;/p&gt;
 &lt;p&gt;Climate change, access to food and water, pandemics&amp;mdash; these words, when uttered, immediately summon to mind global challenges with possible disastrous outcomes. Molecular solutions will be critical to addressing these global problems on scales of complexity never-before-seen. However, they exist in extremely large search spaces, which makes AI tools a necessity. Excitingly, the chemistry field is posed to be substantially accelerated via multimodal models combining language with molecules and drug structures.&lt;/p&gt;
 &lt;p&gt;Stay tuned by following us on Twitter &lt;a href=&#34;https://twitter.com/lang_plus_mols&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@lang_plus_mols&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
@@ -197,7 +197,8 @@ To start, we will provide a high-level overview on traditional NLP tasks used fo
 &lt;li&gt;&amp;ldquo;Can we quickly learn to “translate” bioactive molecules with transformer models?&amp;rdquo; Tysinger et al., 2023.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Molecule-Language Modeling:&lt;/li&gt;
+&lt;li&gt;Molecule-Language Modeling:
+&lt;ul&gt;
 &lt;li&gt;&amp;ldquo;Text2Mol: Cross-modal molecule retrieval with natural language queries.&amp;rdquo; Edwards et al., 2021.&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals.&amp;rdquo; Zeng et al., 2022.&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Translation between molecules and natural language.&amp;rdquo; Edwards et al., 2022.&lt;/li&gt;
@@ -208,6 +209,8 @@ To start, we will provide a high-level overview on traditional NLP tasks used fo
 &lt;li&gt;&amp;ldquo;Molxpt: Wrapping molecules with text for generative pre-training.&amp;rdquo; Liu et al., 2023.&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Multilingual translation for zero-shot biomedical classification using biotranslator.&amp;rdquo; Xu et al., 2023.&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Chatgpt-powered conversational drug editing using retrieval and domain feedback.&amp;rdquo; Liu et al., 2023.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;Applications:
 &lt;ul&gt;
 &lt;li&gt;&amp;ldquo;Drug discovery chemistry: a primer for the non-specialist.&amp;rdquo; Jordan et al., 2009.&lt;/li&gt;
