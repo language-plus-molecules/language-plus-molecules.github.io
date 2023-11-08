@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorials | Language &#43; Molecules @ ACL 2024</title>
+    <title>Language &#43; Molecules @ ACL 2024</title>
     <link>https://language-plus-molecules.github.io/tutorial/</link>
       <atom:link href="https://language-plus-molecules.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tutorials</description>
+    <description>Language &#43; Molecules @ ACL 2024</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://language-plus-molecules.github.io/media/icon_hubed9f227f414ccc7c06d5e087c036f8a_39756_512x512_fill_lanczos_center_3.png</url>
-      <title>Tutorials</title>
+      <title>Language &#43; Molecules @ ACL 2024</title>
       <link>https://language-plus-molecules.github.io/tutorial/</link>
     </image>
     
@@ -43,32 +43,7 @@
       <link>https://language-plus-molecules.github.io/tutorial/outline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://language-plus-molecules.github.io/tutorial/outline/</guid>
-      <description>&lt;h1 id=&#34;hahahugoshortcode48s0hbhb&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-&lt;table class=&#34;table&#34;&gt;
-  
-    
-    
-    &lt;tr&gt;  &lt;/tr&gt;
-  
-  
-  
-&lt;/table&gt;
-&lt;/h1&gt;
-&lt;h2 id=&#34;outline-180-min&#34;&gt;Outline [180 min.]&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;outline-180-min&#34;&gt;Outline [180 min.]&lt;/h2&gt;
 &lt;p&gt;Applying language models to the scientific domain is becoming increasingly popular due to its potential impact for accelerating scientific discovery (Hope et al., 2022). Beyond extracting information from scientific literature, NLP has the possibility to increase control of the scientific discovery process, which can be achieved through multimodal representations and generative language models.&lt;/p&gt;
 &lt;h3 id=&#34;1-background-60-min&#34;&gt;1. Background [60 min.]&lt;/h3&gt;
 &lt;p&gt;Scientific Information Extraction [15 min.]
@@ -182,6 +157,14 @@ To start, we will provide a high-level overview on traditional NLP tasks used fo
       <guid>https://language-plus-molecules.github.io/tutorial/interactive_example/</guid>
       <description>&lt;p&gt;To be released.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Presenters</title>
+      <link>https://language-plus-molecules.github.io/tutorial/presenters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://language-plus-molecules.github.io/tutorial/presenters/</guid>
+      <description></description>
     </item>
     
   </channel>
