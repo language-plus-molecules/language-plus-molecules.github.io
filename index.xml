@@ -162,15 +162,15 @@ To start, we will provide a high-level overview on traditional NLP tasks used fo
 &lt;p&gt;Joint models, on the other hand, seeks to model interactions between multiple modalities inside the same network to allow fine-grained interaction. We will discuss encoder-only models (Zeng et al., 2022), encoder-decoder models (Christofidellis et al., 2023), and decoder-only models (Liu et al., 2023c).&lt;/p&gt;
 &lt;h5 id=&#34;model-differences&#34;&gt;Model Differences&lt;/h5&gt;
 &lt;p&gt;We will answer important questions such as: Which model should I use? What tasks can each do? Tasks include retrieval (Edwards et al., 2021), “translation” between molecules and language Edwards et al. (2022a), editing molecules (Liu et al., 2022), and chemical reaction planning (Vaucher et al., 2020, 2021).&lt;/p&gt;
-&lt;h4 id=&#34;an-interactive-example---tba-disease-20-min&#34;&gt;An Interactive Example - TBA Disease [20 min.]&lt;/h4&gt;
+&lt;h4 id=&#34;an-interactive-example---microtubule-stabilization-20-min&#34;&gt;An Interactive Example - Microtubule Stabilization [20 min.]&lt;/h4&gt;
 &lt;p&gt;At this point, there’s been a lot of ideas thrown around. We’ll consolidate them by exploring an interactive example of language-enabled drug design using Google Colab. Our hands-on example will consist of three components:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;em&gt;Language-enabled Drug Design:&lt;/em&gt; Participants will explore inputs to multiple language→molecule models to generate their own candidate drugs.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Language-enabled Drug Design:&lt;/em&gt; Participants will explore inputs to multiple language→molecule models to generate molecules for different purposes. Following this, they will use natural language to design their own candidate drugs.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Language-Guided Assay Testing:&lt;/em&gt; Here, participants will test their proposed drugs for certain properties. We will follow (Seidl et al., 2023), where natural language descrip- tions are used to test unknown properties.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Interaction Prediction:&lt;/em&gt; Finally, we will test if proposed drugs interact with the target. Here, we will compare a language model-based approach (e.g., (Blanchard et al., 2022; Kalakoti et al., 2022)) with a traditional docking approach (Trott and Olson, 2010).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h4 id=&#34;applications-25-min&#34;&gt;Applications [25 min.]&lt;/h4&gt;
-&lt;p&gt;Here, we will discuss important applications to improve cross-discipline communication, including drug discovery (emphasizing kinase inhibitors) (Ferguson and Gray, 2018), organic photovoltaics (Kippelen et al., 2009), and catalyst discovery for renewable energy (Zitnick et al., 2020).&lt;/p&gt;
+&lt;p&gt;Here, we will discuss important applications to improve cross-discipline communication, including drug discovery (Ferguson and Gray, 2018), organic photovoltaics (Kippelen et al., 2009), and catalyst discovery for renewable energy (Zitnick et al., 2020).&lt;/p&gt;
 &lt;h3 id=&#34;3-recent-trends-and-conclusion-25-min&#34;&gt;3. Recent Trends and Conclusion [25 min.]&lt;/h3&gt;
 &lt;h4 id=&#34;instruction-following-molecular-design-10-min&#34;&gt;Instruction-Following Molecular Design [10 min.]&lt;/h4&gt;
 &lt;p&gt;In the last year, instruction-following language models (Wei et al., 2021) have surged in popularity. Following this trend, training methodologies and datasets have recently emerged to allow language models to follow instructions related to molecule properties (Liang et al., 2023; Fang et al., 2023; Zeng et al., 2023; Zhao et al., 2023a). We will give a brief overview of this new line of work.&lt;/p&gt;
