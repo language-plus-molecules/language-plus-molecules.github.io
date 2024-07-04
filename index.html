@@ -1756,6 +1756,9 @@ To encourage higher quality submissions, we will offer Best Paper Award(s) based
   <div class="col-12">
     <h3 id="leaderboard">Leaderboard</h3>
 <h4 id="molecular-captioning">Molecular Captioning:</h4>
+<p>The leaderboard ranking is based on the &ldquo;Overall Increase&rdquo; metric. Metrics are spread across two tables: 1) translation metric scores (BLEU, ROUGE, METEOR), and 2) property metric scores (whether a caption contains the ground truth property). For details on evaluation, please see the <a href="https://github.com/language-plus-molecules/LPM-24-Dataset/tree/main/evaluation" target="_blank" rel="noopener">Github repo</a>.</p>
+<p>&ldquo;Overall Increase&rdquo; is the average absolute percent improvement over MolT5-Small (across all metrics from both tables). Additionally, we report a &ldquo;Translation Metric Increase&rdquo;, which is the average increase over all translation metric scores.
+&ldquo;Property Metric Increase&rdquo;, which is the average improvement over all captioning property scores. For property scores, everything is F-1 Score.</p>
 <h6 id="translation-metrics">Translation Metrics:</h6>
 
 
@@ -4392,8 +4395,11 @@ To encourage higher quality submissions, we will offer Best Paper Award(s) based
   
 </table>
 
-<p>&ldquo;Overall Increase&rdquo; is the average absolute percent improvement over MolT5-Small (across all metrics from both tables). &ldquo;Property Metric Increase&rdquo; is the average over all captioning property scores. &ldquo;Translation Metric Increase&rdquo; is the average increase over all translation metric scores. For property scores, everything is F-1 Score.</p>
 <h4 id="text-based-molecule-generation">Text-Based Molecule Generation:</h4>
+<p>The leaderboard ranking is based on the &ldquo;Overall Increase&rdquo; metric. Metrics are spread across two tables: 1) metrics computed for the entire Test Split, and 2) metrics computed for the &ldquo;Withheld Combos&rdquo; molecules within the test split.</p>
+<p>&ldquo;Overall Increase&rdquo; is the average absolute percent improvement over MolT5-Small (across all metrics except exact match from both tables), except for FCD and Levenshtein.
+For FCD and Levenshtein, absolute improvement is used instead.</p>
+<p>&ldquo;Test Metric Increase&rdquo; is this score using only the test split metrics. &ldquo;Withheld Combo Increase&rdquo; is this score using only the witheld combos split metrics.</p>
 <h6 id="test-split-metrics">Test Split Metrics:</h6>
 
 
@@ -6006,7 +6012,6 @@ To encourage higher quality submissions, we will offer Best Paper Award(s) based
   
 </table>
 
-<p>&ldquo;Overall Increase&rdquo; is the average absolute percent improvement over MolT5-Small (across all metrics except exact match from both tables), except for FCD and Levenshtein, where it is absolute improvement. It includes both the test split and withheld combos only split. &ldquo;Test Metric Increase&rdquo; is this score using only the test split. &ldquo;Withheld Combo Increase&rdquo; is the average increase over all translation metric scores.</p>
 
   </div>
 
