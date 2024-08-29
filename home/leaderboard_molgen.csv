@@ -1,7 +1,7 @@
 Team,Model,Overall Increase,Test Metric Increase,BLEU,Exact Match,Levenshtein,Validity,MACCS FTS,RDK FTS,Morgan FTS,FCD
 qizhipei,BioT5+_large,12.97,13.2,73.17,0.01,41.05,100.0,76.05,68.7,50.05,3.13
 protonunfold,SciMind,12.68,12.76,73.44,0.0,40.35,99.78,75.06,67.05,47.82,2.54
-avaliev,PLAIN,12.41,12.39,71.82,0.01,43.91,98.98,74.97,66.85,48.92,0.28
+Insilico Medicine,PLAIN,12.41,12.39,71.82,0.01,43.91,98.98,74.97,66.85,48.92,0.28
 mengmeng,Mistral,12.26,12.22,70.56,0.0,43.75,99.4,75.6,67.57,48.62,2.01
 langmolecules,Meditron,11.81,11.66,68.84,0.01,46.47,99.54,75.59,67.66,48.72,2.44
 dimitris,ALMol~10%Data,10.41,9.26,69.74,0.01,43.24,92.84,70.22,62.79,42.96,3.05
